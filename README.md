@@ -6,4 +6,4 @@ activate cryptocurrency-analysis
 
 conda install numpy pandas nb_conda jupyter plotly quandl
 
-ipython notebook --no-browser
+ipython notebook cryptocurrency.ipynb
